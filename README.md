@@ -58,7 +58,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 - [Ataque cibernético em redes locais](https://github.com/Camilotk/trabalho_php_curriculo)
 
 
-## Segurança de Redes
+## Segurança de Dispositivos Mobile
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
