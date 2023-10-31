@@ -27,8 +27,8 @@ Disciplina em duas partes (POO I e POO II) com mais duas cadeiras de prática à
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
 
 *Trabalho Final:*
-- [Resumo de ferramentas de análise e teste de código](https://github.com/Camilotk/trabalho_php_curriculo) || **[Vídeo](https://www.youtube.com/watch?v=P2UTReNspy4&ab_channel=Ot%C3%A1vioMarelli)**
-- [Prncipais riscos em aplicações web](https://github.com/Camilotk/trabalho-matriz) || **[Vídeo](https://www.youtube.com/watch?v=-XJ-kyH7XXI&ab_channel=Ot%C3%A1vioMarelli)**
+- [Resumo de ferramentas de análise e teste de código](https://github.com/Camilotk/trabalho_php_curriculo) || *[Vídeo](https://www.youtube.com/watch?v=P2UTReNspy4&ab_channel=Ot%C3%A1vioMarelli)*
+- [Prncipais riscos em aplicações web](https://github.com/Camilotk/trabalho-matriz) || *[Vídeo](https://www.youtube.com/watch?v=-XJ-kyH7XXI&ab_channel=Ot%C3%A1vioMarelli)*
 
 ## Criptografia
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
@@ -92,4 +92,10 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 *Trabalho Final:*
 - [Relatório Pentest](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=nXeAw2) || [Vídeo](https://www.youtube.com/watch?v=kAVHAvkutQQ&t=836s&ab_channel=GelsonFilho) 
 
+## Windows Hardening
+**Prof:** Eduardo Popoviht Braz || [Eduardo Popovith no Linkedin](https://www.linkedin.com/in/edupopovhtbraz/)
 
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Certificados e entidades certificadoras](https://github.com/Camilotk/trabalho_php_curriculo)
