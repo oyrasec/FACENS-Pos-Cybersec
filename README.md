@@ -58,12 +58,38 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 - [Ataque cibernético em redes locais](https://github.com/Camilotk/trabalho_php_curriculo)
 
 
+## Segurança de Redes
+**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Comprometimento de dispositivo móvel](https://github.com/Camilotk/trabalho_php_curriculo)
 
 
-
-
-
-
-
-## Design Seguro (SDL)
+## Desenvolvimento Código Seguro
 **Prof:** Allan Piter Pressi || [Allan Piter no Linkedin](https://www.linkedin.com/in/allanpitter/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [Aperfeiçoamento de código](https://github.com/Camilotk/trabalho_php_curriculo)
+
+## Trusted Computing
+**Prof:** Raphael Hungaro Moretti || [Raphael Moretti no Linkedin](https://www.linkedin.com/in/raphael-hungaro-moretti/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Certificados e entidades certificadoras](https://github.com/Camilotk/trabalho_php_curriculo)
+
+## Cybersecurity Bootcamp II
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
+**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [Relatório Pentest](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=nXeAw2) || [Vídeo](https://www.youtube.com/watch?v=kAVHAvkutQQ&t=836s&ab_channel=GelsonFilho) 
+
+
