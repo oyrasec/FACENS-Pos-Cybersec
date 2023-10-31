@@ -1,6 +1,6 @@
 # ESPECIALIZAÇÃO EM SEGURANÇA DA INFORMAÇÃO
 
-Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal do Rio Grande do Sul (IFRS) prganizados por Disciplina.
+Aqui estão todos os trabalhos desenvolvidos durante a Pós-graduação em Segurança da Informação na Universidade FACENS organizados por Disciplina.
 
 **Indíce:**
 1. [Programação Orientada A Objetos](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
@@ -13,12 +13,12 @@ Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e
 8. [Qualidade e Teste de Software](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#qualidade-e-teste-de-software)
 
 
-## Programação Orientada A Objetos
-**Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)
+## Metodologia da Pesquisa Científica
+**Prof**: João Augusto Mattar Neto || [João Mattar]([https://www.linkedin.com/in/jo%C3%A3o-mattar/])
 
 Disciplina em duas partes (POO I e POO II) com mais duas cadeiras de prática à distácia (Laboratório de POO I e Lab de POO II) onde aprende-se a programação orientada a objetos, solid, design patterns, big-o, algoritmos complexos e desenvolvimento de aplicativos desktop. As disciplinas foram inteiramente ministradas em Java. Em POO II e Lab de POO II o Prof. fez a concessão para que os trabalhos práticos fossem feitos em qualquer liguagem a escolha do aluno, eu escolhi então fazê-las em Python. 
 
-*Repositórios:*
+*Trabalho:*
 - [exercicios_java](https://github.com/Camilotk/exercicios_java)
 - [python-pooii](https://github.com/Camilotk/python-pooii)
 
