@@ -46,7 +46,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
 
 *Trabalho Final:*
-- [Artigo Científico](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=nXeAw2) || [Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho) 
+- [Artigo Científico](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=nXeAw2) || *[Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho)* 
 
 
 ## Segurança de Redes
@@ -98,4 +98,33 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
 
 *Trabalho Final:*
-- [PoC Certificados e entidades certificadoras](https://github.com/Camilotk/trabalho_php_curriculo)
+- [PoC Técnicas de hardening em ambiente virtualizado](https://github.com/Camilotk/trabalho_php_curriculo) || *[Vídeo](https://www.youtube.com/watch?v=9UIY5FlcR4s&ab_channel=Ot%C3%A1vioMarelli)*
+
+
+## Linux Hardening
+**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Golden Image Linux - Servidor NTP](https://github.com/Camilotk/trabalho_php_curriculo) || *[Vídeo](https://www.youtube.com/watch?v=pBaY3LaNfdM&ab_channel=Ot%C3%A1vioMarelli)*
+
+
+## Segurança Aplicada a IoT
+**Prof:** Leandro Avanço || [Leandro Avanço no LinkedIn](https://www.linkedin.com/in/leandro-avanco/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Implementação de Sistema Seguro IoT](https://github.com/Camilotk/trabalho_php_curriculo) || *[Vídeo](https://www.youtube.com/watch?v=9UIY5FlcR4s&ab_channel=Ot%C3%A1vioMarelli)*
+
+
+## Engenharia Reversa
+**Prof:** Emerson Eikiti Matsukawa || [Emerson Matsukawa no LinkedIn](https://www.linkedin.com/in/ematsukawa/)
+
+Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+
+*Trabalho Final:*
+- [PoC Implementação de Sistema Seguro IoT](https://github.com/Camilotk/trabalho_php_curriculo)
+
+
