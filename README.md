@@ -40,7 +40,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 - [trabalho-matriz](https://github.com/Camilotk/trabalho-matriz)
 
 ## Cybersecurity Bootcamp I
-**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
 **Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
