@@ -4,18 +4,18 @@ Aqui estão alguns dos trabalhos desenvolvidos durante a Pós-graduação em Seg
 
 **Indíce:**
 1. [Metodologia da Pesquisa Científica](https://github.com/oyrasec/Facens-Pos-Cybersec#metodologia-da-pesquisa-cient%C3%ADfica)
-2. [Princípios Da Programação Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#design-seguro-sdl)
-3. [Desenvolvimento De Sistemas](https://github.com/oyrasec/Facens-Pos-Cybersec#criptografia)
-4. [Programação Para Dispositivos Móveis](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-i)
-5. [Desenvolvimento De Sistemas Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-de-redes)
-6. [Prática Profissional Integrada I](https://github.com/oyrasec/Facens-Pos-Cybersec/blob/main/README.md#seguran%C3%A7a-de-dispositivos-mobile)
-7. [Prática Profissional Integrada II](https://github.com/oyrasec/Facens-Pos-Cybersec#desenvolvimento-c%C3%B3digo-seguro)
-8. [Qualidade e Teste de Software](https://github.com/oyrasec/Facens-Pos-Cybersec#trusted-computing)
-9. [Programação Para Dispositivos Móveis](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-ii)
-10. [Desenvolvimento De Sistemas Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#windows-hardening)
-11. [Prática Profissional Integrada I](https://github.com/oyrasec/Facens-Pos-Cybersec#linux-hardening)
-12. [Prática Profissional Integrada II](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-aplicada-a-iot)
-13. [Qualidade e Teste de Software](https://github.com/oyrasec/Facens-Pos-Cybersec#engenharia-reversa)
+2. [Design Seguro (SDL)](https://github.com/oyrasec/Facens-Pos-Cybersec#design-seguro-sdl)
+3. [Criptografia](https://github.com/oyrasec/Facens-Pos-Cybersec#criptografia)
+4. [Cybersecurity Bootcamp I](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-i)
+5. [Segurança de Redes](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-de-redes)
+6. [Segurança de Dispositivos Mobile](https://github.com/oyrasec/Facens-Pos-Cybersec/blob/main/README.md#seguran%C3%A7a-de-dispositivos-mobile)
+7. [Desenvolvimento Código Seguro](https://github.com/oyrasec/Facens-Pos-Cybersec#desenvolvimento-c%C3%B3digo-seguro)
+8. [Trusted Computing](https://github.com/oyrasec/Facens-Pos-Cybersec#trusted-computing)
+9. [Cybersecurity Bootcamp II](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-ii)
+10. [Windows Hardening](https://github.com/oyrasec/Facens-Pos-Cybersec#windows-hardening)
+11. [Linux Hardening](https://github.com/oyrasec/Facens-Pos-Cybersec#linux-hardening)
+12. [Segurança Aplicada a IoT](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-aplicada-a-iot)
+13. [Engenharia Reversa](https://github.com/oyrasec/Facens-Pos-Cybersec#engenharia-reversa)
 
 
 ## Metodologia da Pesquisa Científica
