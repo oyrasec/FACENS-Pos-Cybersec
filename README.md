@@ -46,8 +46,8 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
 
 *Trabalho Final:*
-- [trabalho_php_curriculo](https://github.com/Camilotk/trabalho_php_curriculo)
-- [trabalho-matriz](https://github.com/Camilotk/trabalho-matriz)
+- [Artigo Científico](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=nXeAw2) || [Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho) 
+
 
 ## Segurança de Redes
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
