@@ -3,14 +3,19 @@
 Aqui estão alguns dos trabalhos desenvolvidos durante a Pós-graduação em Segurança da Informação na Universidade FACENS organizados por Disciplina.
 
 **Indíce:**
-1. [Programação Orientada A Objetos](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
-2. [Princípios Da Programação Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#princ%C3%ADpios-da-programa%C3%A7%C3%A3o-para-internet)
-3. [Desenvolvimento De Sistemas](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas)
-4. [Programação Para Dispositivos Móveis](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-para-dispositivos-m%C3%B3veis)
-5. [Desenvolvimento De Sistemas Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas-para-internet)
-6. [Prática Profissional Integrada I](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-i)
-7. [Prática Profissional Integrada II](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-ii)
-8. [Qualidade e Teste de Software](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#qualidade-e-teste-de-software)
+1. [Metodologia da Pesquisa Científica](https://github.com/oyrasec/Facens-Pos-Cybersec#metodologia-da-pesquisa-cient%C3%ADfica)
+2. [Princípios Da Programação Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#design-seguro-sdl)
+3. [Desenvolvimento De Sistemas](https://github.com/oyrasec/Facens-Pos-Cybersec#criptografia)
+4. [Programação Para Dispositivos Móveis](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-i)
+5. [Desenvolvimento De Sistemas Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-de-redes)
+6. [Prática Profissional Integrada I](https://github.com/oyrasec/Facens-Pos-Cybersec/blob/main/README.md#seguran%C3%A7a-de-dispositivos-mobile)
+7. [Prática Profissional Integrada II](https://github.com/oyrasec/Facens-Pos-Cybersec#desenvolvimento-c%C3%B3digo-seguro)
+8. [Qualidade e Teste de Software](https://github.com/oyrasec/Facens-Pos-Cybersec#trusted-computing)
+9. [Programação Para Dispositivos Móveis](https://github.com/oyrasec/Facens-Pos-Cybersec#cybersecurity-bootcamp-ii)
+10. [Desenvolvimento De Sistemas Para Internet](https://github.com/oyrasec/Facens-Pos-Cybersec#windows-hardening)
+11. [Prática Profissional Integrada I](https://github.com/oyrasec/Facens-Pos-Cybersec#linux-hardening)
+12. [Prática Profissional Integrada II](https://github.com/oyrasec/Facens-Pos-Cybersec#seguran%C3%A7a-aplicada-a-iot)
+13. [Qualidade e Teste de Software](https://github.com/oyrasec/Facens-Pos-Cybersec#engenharia-reversa)
 
 
 ## Metodologia da Pesquisa Científica
