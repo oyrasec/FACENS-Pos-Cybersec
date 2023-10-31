@@ -1,4 +1,4 @@
-# Trabalhos da Faculdade
+# ESPECIALIZAÇÃO EM SEGURANÇA DA INFORMAÇÃO
 
 Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal do Rio Grande do Sul (IFRS) prganizados por Disciplina.
 
