@@ -21,7 +21,7 @@ Aqui estão alguns dos trabalhos desenvolvidos durante a Pós-graduação em Seg
 ## Metodologia da Pesquisa Científica
 **Prof**: João Augusto Mattar Neto || [João Mattar no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mattar/)
 
-Disciplina em duas partes (POO I e POO II) com mais duas cadeiras de prática à distácia (Laboratório de POO I e Lab de POO II) onde aprende-se a programação orientada a objetos, solid, design patterns, big-o, algoritmos complexos e desenvolvimento de aplicativos desktop. As disciplinas foram inteiramente ministradas em Java. Em POO II e Lab de POO II o Prof. fez a concessão para que os trabalhos práticos fossem feitos em qualquer liguagem a escolha do aluno, eu escolhi então fazê-las em Python. 
+Ensinar  técnicas e abordagens fundamentais para realizar pesquisas de maneira sistemática e rigorosa. Formular questões de pesquisa, revisar a literatura, escolher metodologias, coletar e analisar dados, interpretar resultados e comunicar os achados por meio de relatórios e apresentações.
 
 *Trabalho Final:*
 - [Revisão de Literatura](https://1drv.ms/b/s!Ar7SMnGPv3acwn-j9Z4rotxiksSU?e=buZnBX)
@@ -29,7 +29,7 @@ Disciplina em duas partes (POO I e POO II) com mais duas cadeiras de prática à
 ## Design Seguro (SDL)
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Práticas e princípios fundamentais para a criação de sistemas, produtos e ambientes seguros. Identificar e mitigar vulnerabilidades, entender as ameaças à segurança e desenvolver soluções que protegem contra riscos de segurança cibernética, segurança de produtos e outras áreas relacionadas.
 
 *Trabalho Final:*
 - [Resumo de ferramentas de análise e teste de código](https://1drv.ms/b/s!Ar7SMnGPv3acwmU0cT4jXA8YJUJD?e=XdtxQZ) || *[Vídeo](https://www.youtube.com/watch?v=P2UTReNspy4&ab_channel=Ot%C3%A1vioMarelli)*
@@ -38,7 +38,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Criptografia
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Práticas e princípios fundamentais para o uso de técnicas de codificação e decodificação de informações, visando à proteção e confidencialidade dos dados. Compreender os algoritmos criptográficos, aplicar métodos de cifragem e decifragem, e entender como a criptografia é usada na segurança de dados e comunicações.
 
 *Trabalho Final:*
 - [Criptografia aplicada em e-mail](https://1drv.ms/b/s!Ar7SMnGPv3acwwcIalD-rAX4QNDN?e=9CpfL1)
@@ -48,7 +48,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 **Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
 **Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+O objetivo deste estudo é desenvolver recursos de segurança para um sistema de relógio de ponto de software. Isso inclui o mapeamento de dados sensíveis, o uso de aprendizado de máquina para detectar malware em dispositivos Android, a implementação de comunicações seguras com criptografia e autenticação, e a utilização de um sistema de hash para detectar modificações no banco de dados. O trabalho visa mitigar vulnerabilidades e aprimorar a segurança do sistema, apresentando resultados e considerando suas limitações.
 
 *Trabalho Final:*
 - [Artigo Científico](https://1drv.ms/b/s!Ar7SMnGPv3acwm5mA8dqHbcDIY6C?e=hFS0VQ) || *[Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho)* 
