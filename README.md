@@ -57,7 +57,7 @@ O objetivo deste estudo é desenvolver recursos de segurança para um sistema de
 ## Segurança de Redes
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Proteger sistemas de rede contra ameaças cibernéticas, abordando conceitos, técnicas e práticas de segurança para garantir a integridade e confidencialidade dos dados.
 
 *Trabalho Final:*
 - [Ataque cibernético em redes locais](https://1drv.ms/b/s!Ar7SMnGPv3acwnmNVgqKeDN9yv6U?e=wEZBdR)
@@ -66,7 +66,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Segurança de Dispositivos Mobile
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Proteger dispositivos móveis, como smartphones e tablets, contra ameaças cibernéticas. Isso inclui o entendimento de práticas de segurança, prevenção de vulnerabilidades e garantia da integridade e confidencialidade dos dados armazenados e transmitidos por esses dispositivos.as.
 
 *Trabalho Final:*
 - [PoC Comprometimento de dispositivo móvel](https://1drv.ms/b/s!Ar7SMnGPv3acwnS4Tw0BHjKLNp1v?e=TnDb1Z)
@@ -75,7 +75,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Desenvolvimento Código Seguro
 **Prof:** Allan Piter Pressi || [Allan Piter no Linkedin](https://www.linkedin.com/in/allanpitter/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Práticas que garantam a segurança na criação de programas e aplicativos de software. Isso envolve a compreensão de técnicas, diretrizes e ferramentas para prevenir vulnerabilidades e garantir que o código seja resistente a ataques cibernéticos, protegendo os sistemas e os dados dos usuários.
 
 *Trabalho Final:*
 - [PoC Aperfeiçoamento de código](https://1drv.ms/b/s!Ar7SMnGPv3acwnXRhgHoGCD4kBDh?e=VQ95gc)
@@ -83,7 +83,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Trusted Computing
 **Prof:** Raphael Hungaro Moretti || [Raphael Moretti no Linkedin](https://www.linkedin.com/in/raphael-hungaro-moretti/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Princípios e técnicas envolvidos na construção de sistemas de computação confiáveis e seguros. Isso abrange o estudo de tecnologias, modelos de segurança e medidas para garantir a integridade e confidencialidade das informações processadas por sistemas computacionais.
 
 *Trabalho Final:*
 - [PoC Certificados e entidades certificadoras](https://1drv.ms/b/s!Ar7SMnGPv3acwn3KJhfgsESqYdnE?e=SP5wpx)
@@ -92,7 +92,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 **Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
 **Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+ O Objetivo deste estudo é a realização de testes de penetração em sistemas e redes de computadores. Com a finalidade de identificar e explorar vulnerabilidades de segurança, avaliar a resistência de sistemas a ataques cibernéticos e fornecer recomendações para aprimorar a segurança.
 
 *Trabalho Final:*
 - [Relatório Pentest](https://1drv.ms/b/s!Ar7SMnGPv3acwlTPLl7iI_bpZkl1?e=beNlpI) || [Vídeo](https://www.youtube.com/watch?v=kAVHAvkutQQ&t=836s&ab_channel=GelsonFilho) 
@@ -100,7 +100,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Windows Hardening
 **Prof:** Eduardo Popoviht Braz || [Eduardo Popovith no Linkedin](https://www.linkedin.com/in/edupopovhtbraz/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Fortalecer e proteger os sistemas operacionais Windows contra ameaças cibernéticas. Implementar práticas de segurança, configurar sistemas para resistir a ataques e mitigar vulnerabilidades, garantindo a integridade e a confidencialidade das informações em ambientes Windows.
 
 *Trabalho Final:*
 - [PoC Técnicas de hardening em ambiente virtualizado](https://1drv.ms/b/s!Ar7SMnGPv3acwlokts1IeYk9AoLP?e=SHa4br) || *[Vídeo](https://www.youtube.com/watch?v=9UIY5FlcR4s&ab_channel=Ot%C3%A1vioMarelli)*
@@ -109,7 +109,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Linux Hardening
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Fortalecer e proteger os sistemas operacionais Linux contra ameaças cibernéticas. Implementar práticas de segurança, configurar sistemas para resistir a ataques e mitigar vulnerabilidades, garantindo a integridade e a confidencialidade das informações em ambientes Linux.
 
 *Trabalho Final:*
 - [PoC Golden Image Linux - Servidor NTP](https://1drv.ms/b/s!Ar7SMnGPv3acwl1ADGNdvf66calS?e=SGlV5k) || *[Vídeo](https://www.youtube.com/watch?v=pBaY3LaNfdM&ab_channel=Ot%C3%A1vioMarelli)*
@@ -118,7 +118,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Segurança Aplicada a IoT
 **Prof:** Leandro Avanço || [Leandro Avanço no LinkedIn](https://www.linkedin.com/in/leandro-avanco/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Garantir a segurança em sistemas de Internet das Coisas (IoT). Proteger dispositivos IoT, redes e dados contra ameaças cibernéticas. Compreensão de protocolos de segurança, criptografia e práticas para mitigar vulnerabilidades, garantindo a confidencialidade e a integridade das informações em ambientes IoT.
 
 *Trabalho Final:*
 - [PoC Implementação de Sistema Seguro IoT](https://1drv.ms/b/s!Ar7SMnGPv3acwmeH2EBH6bybYJB-?e=FftH5a) || *[Vídeo](https://www.youtube.com/watch?v=9UIY5FlcR4s&ab_channel=Ot%C3%A1vioMarelli)*
@@ -127,7 +127,7 @@ Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQue
 ## Engenharia Reversa
 **Prof:** Emerson Eikiti Matsukawa || [Emerson Matsukawa no LinkedIn](https://www.linkedin.com/in/ematsukawa/)
 
-Disciplina com o objetivo de aprender o básico de desenvolvimento Web: JS, JQuery, HTML e CSS com o básico de PHP. Durante a Disciplina utilizamos essas tecnologias para construir sistemas front e back utilizando essas tecnologias.
+Técnicas e metodologias envolvidas na análise de sistemas e aplicativos de software existentes. Desmontar e compreender o funcionamento interno de programas, identificar vulnerabilidades e entender como a engenharia reversa pode ser usada para aprimorar a segurança de sistemas ou para desenvolver soluções de software.
 
 *Trabalho Final:*
 - [PoC Análise de software utilizando o Ghidra](https://1drv.ms/b/s!Ar7SMnGPv3acwnuwHxkxF-do3k9f?e=N0hZlM)
